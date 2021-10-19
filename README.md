@@ -35,3 +35,4 @@ make qemu   - to run inside Qemu virtual machine
 ### TODO: <br>
 - [ ] Labs 2020 risc-v: https://pdos.csail.mit.edu/6.828/2020/index.html
 - [ ] Labs 2018 x86   : https://pdos.csail.mit.edu/6.828/2018/xv6.html
+- [ ] Labs 2019 x86   : https://www.cs.virginia.edu/~cr4bd/4414/F2019/assignments.html
