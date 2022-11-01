@@ -23,18 +23,3 @@ Clements.
 
 The code in the files that constitute xv6 is
 Copyright 2006-2018 Frans Kaashoek, Robert Morris, and Russ Cox.
-
-
-### BUILDING AND RUNNING XV6
-```
-make        - to build xv6 image
-make qemu   - to run inside Qemu virtual machine
-```
-
-
-### TODO: <br>
-- [ ] Lectures        : https://www.cs.columbia.edu/~junfeng/11sp-w4118/lectures/
-- [ ] yt              : https://www.youtube.com/playlist?list=PLDW872573QAb4bj0URobvQTD41IV6gRkx
-- [ ] Labs 2020 risc-v: https://pdos.csail.mit.edu/6.828/2020/index.html
-- [ ] Labs 2018 x86   : https://pdos.csail.mit.edu/6.828/2018/xv6.html
-- [ ] Labs 2019 x86   : https://www.cs.virginia.edu/~cr4bd/4414/F2019/assignments.html
